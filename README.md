@@ -1,4 +1,6 @@
 # UnityRayTrace
+(Deprecated)
+See new version [UnityRayTraceGitee](https://github.com/ouerkakaChango/UnityRayTraceGitee)  
 Use Unity.computeShader to do rayTrace  
 ![image](/TestRayTrace/记录/41_iter400_spp64_NoF.png)  
 ![image](/TestRayTrace/记录之_SDFGame/11_noise_computational.png)   
